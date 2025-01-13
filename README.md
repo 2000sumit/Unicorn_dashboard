@@ -28,7 +28,7 @@ Key performance metrics and comparative analysis.
 Clone this repository to your local machine:
 bash
 Copy code
-git clone https://github.com/2000sumit/unicorn-companies-dashboard.git
+git clone https://github.com/2000sumit/Unicorn_dashboard
 Open the .pbix file in Power BI Desktop.
 Explore the dashboard and interact with the visualizations.
 🚀 Outcomes
