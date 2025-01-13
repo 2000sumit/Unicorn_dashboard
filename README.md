@@ -37,15 +37,7 @@ This project demonstrates proficiency in:
 Data visualization and storytelling using Power BI.
 Advanced data modeling and calculations with DAX.
 Presenting insights in a user-friendly and interactive manner.
-📂 Repository Structure
-plaintext
-Copy code
-.
-├── README.md      # Project documentation
-├── Unicorn.pbix   # Power BI dashboard file
-└── Data/          # Dataset used for the project
-📬 Contact
-If you have any questions or suggestions, feel free to reach out:
+
 
 Name: Sumit Singh
 LinkedIn: https://www.linkedin.com/in/sumit-singh02/
